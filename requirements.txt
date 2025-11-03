@@ -1,0 +1,13 @@
+databricks-sql-connector>=3.0.0
+databricks-sdk>=0.70.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+# Whisper AI dependencies
+openai>=1.0.0
+
+# Local Whisper (optional - only if you want to run locally without API)
+# Uncomment the following lines to use local Whisper:
+# openai-whisper>=20231117
+# torch>=2.0.0
+# ffmpeg-python>=0.2.0

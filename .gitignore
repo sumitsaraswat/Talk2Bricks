@@ -1,0 +1,49 @@
+# Environment variables (contains API keys and secrets)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Databricks credentials
+.databrickscfg
+*.databrickscfg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+temp/
+tmp/
+
+# Audio files (if any are created during testing)
+*.wav
+*.mp3
+*.m4a
+
+# Test/Debug files
+test_*.py
+debug_*.py
+
