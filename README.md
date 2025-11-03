@@ -186,7 +186,6 @@ You speak → Whisper transcribes → Auto-sent to Genie → Done!
 
 ## 🎤 Example Questions
 
-- "List all catalogs in my workspace"
 - "What were total sales last month"
 - "Show me top 10 customers by revenue"
 - "How many users signed up yesterday"
