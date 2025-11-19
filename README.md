@@ -200,13 +200,7 @@ Access your configured Genie room:
 - Press **[o]** in the interactive menu to open automatically
 - Or check the console output when the script starts
 
----
 
-## 💰 Cost
-
-- ~$0.001 per 10-second question
-- 100 questions = ~$0.10
-- Very affordable! 💪
 
 ---
 
